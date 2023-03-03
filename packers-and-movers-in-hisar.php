@@ -2,6 +2,50 @@
 <?php $smal_city="hisar"; ?>
 <?php $breadcrumbs_last="packers and movers in"; ?>
 <?php $last_dom="packers-and-movers-in-"; ?>
+
+
+<!-- faq -->
+<?php $Q1="Can I get transport-only service in Hisar?"; ?>
+<?php $A1="Hisar is a beautiful city full of flourishing industries. You can easily get transport services in your area. Shiftingway is Hisar's most reliable transport service provider; you can trust shifting way to move your home with ease. We provide fast and secure delivery with packing services."; ?>
+
+<?php $Q2="How do shifting way packers and movers provide office shifting?"; ?>
+<?php $A2="Office shifting is a sensitive and sharp task. Any hurdles can lead to significant results. shifting way packers and movers have good expertise in office shifting. We will do proper planning and documentation before moving. We do smooth execution with office equipment. Major types of equipment are electronic appliances and Computer systems. Our IT and electronic experts help with disassembling the goods. All your hardware goods will be packed in Steel Flat cases and Wooden crates. Corrugated boxes and packing paper will be used for other things. We will load the office goods adequately, and you are ready. We provide hassle-free office shifting with 100% safety."; ?>
+
+<?php $Q3="How will shiftingway packers and movers protect my precious goods and furniture?"; ?>
+<?php $A3="Shiftingway Packers and movers in Hisar have 3 layers of protection to protect your precious goods.
+                        <ul>
+                          <li><b>01.</b> Use non-acidic archival tissue on the first layer for artwork & Fabrics and Foam wrap for Glass and wood. It works as a protective wrap.</li>
+                          <li><b>02.</b> On 2nd layer, They will use a combination of blankets, foam, and bubble wrap to absorb minor shocks.</li>
+                          <li><b>03.</b> A Wooden or plastic crate will protect against any harsh effects during moving on the outermost layer. </li>
+                        </ul>
+                      "; ?>
+
+<?php $Q4="Why does it take so much time for long-distance moving?"; ?>
+<?php $A4="Long-distance moving can be considered either within nearby cities or Interstate moving. If you are moving within nearby cities (most probably less than 150 Km), it will take 1-2 days around. If you are moving interstate, it takes time due to customs, traffic, and multiple houses shifting in an identical route. So, shiftingway packers and movers will store your household luggage in the warehouse to protect it. Interstate moving takes 2 days to 2 weeks, depending on household luggage quantity and distance."; ?>
+
+<?php $Q5="What to do before home shifting?"; ?>
+<?php $A5="Three main things are necessary to remember before household shifting.
+                        <ul>
+                          <li><b>01.</b> Clean and prepare your appliances and furniture.</li>
+                          <li><b>02.</b> Take charge of your essential things like laptops and Jewelry.</li>
+                          <li><b>03.</b> List out all the inventory on paper or a Notebook.</li>
+                        </ul>
+                      "; ?>
+
+<?php $Q6="How to plan a long-distance home shifting from Hisar?"; ?>
+<?php $A6="Planning is necessary to protect yourself from any mistakes. As a part of planning, do these things first.
+                        <ul>
+                          <li><b>01.</b> Check whether moving during a sunny day is advisable to avoid any issues.</li>
+                          <li><b>02.</b> Clear all the courtesies like payment, tax, and insurance with your mover.</li>
+                          <li><b>03.</b> Cook your food before shifting or packing kitchen items for long moving.</li>
+                          <li><b>04.</b> Keep small and precious items with yourself like jewellery etc.</li>
+                          <li><b>05.</b> Check the car registration and state rules for housing.</li>
+                          <li><b>06.</b> And keep the other house clean and ready where you are moving.</li>
+                        </ul>
+                        After that, you have to arrange things. Make a list of the whole inventory and divide them based on importance and sensitivity. After that, clean your electronic appliances and furniture to disassemble them further. You must prepare your moving bags with Jewelry, Medicines, Laptops, Some clothes, and an essential hygienic kit. Remember to cancel your utility services like LPG, Water supply, Electricity, Etc. It will increase unnecessary bills
+                      "; ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -261,66 +305,44 @@
               <div class="faqs r-flex jut-sb">
                 <div class="faq-container-box">
                   <div class="container-faq">
-                    <h3 class="question">Can I get transport-only service in Hisar?</h3>
+                    <h3 class="question"><?php echo $Q1; ?></h3>
                     <div class="answercont">
-                      <div class="answer">Hisar is a beautiful city full of flourishing industries. You can easily get transport services in your area. Shiftingway is Hisar's most reliable transport service provider; you can trust shifting way to move your home with ease. We provide fast and secure delivery with packing services.</div>
+                      <div class="answer"><?php echo $A1; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq">
-                    <h3 class="question">How do shifting way packers and movers provide office shifting? </h3>
+                    <h3 class="question"><?php echo $Q1; ?></h3>
                     <div class="answercont">
-                      <div class="answer">Office shifting is a sensitive and sharp task. Any hurdles can lead to significant results. shifting way packers and movers have good expertise in office shifting. We will do proper planning and documentation before moving. We do smooth execution with office equipment. Major types of equipment are electronic appliances and Computer systems. Our IT and electronic experts help with disassembling the goods. All your hardware goods will be packed in Steel Flat cases and Wooden crates. Corrugated boxes and packing paper will be used for other things. We will load the office goods adequately, and you are ready. We provide hassle-free office shifting with 100% safety.</div>
+                      <div class="answer"><?php echo $A1; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq">
-                    <h3 class="question">How will shiftingway packers and movers protect my precious goods and furniture?</h3>
+                    <h3 class="question"><?php echo $Q1; ?></h3>
                     <div class="answercont">
-                      <div class="answer">Shiftingway Packers and movers in Hisar have 3 layers of protection to protect your precious goods.
-                        <ul>
-                          <li><b>01.</b> Use non-acidic archival tissue on the first layer for artwork & Fabrics and Foam wrap for Glass and wood. It works as a protective wrap.</li>
-                          <li><b>02.</b> On 2nd layer, They will use a combination of blankets, foam, and bubble wrap to absorb minor shocks.</li>
-                          <li><b>03.</b> A Wooden or plastic crate will protect against any harsh effects during moving on the outermost layer. </li>
-                        </ul>
-                      </div>
+                      <div class="answer"><?php echo $A1; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq">
-                    <h3 class="question">Why does it take so much time for long-distance moving? </h3>
+                    <h3 class="question"><?php echo $Q1; ?></h3>
                     <div class="answercont">
-                      <div class="answer">Long-distance moving can be considered either within nearby cities or Interstate moving. If you are moving within nearby cities (most probably less than 150 Km), it will take 1-2 days around. If you are moving interstate, it takes time due to customs, traffic, and multiple houses shifting in an identical route. So, shiftingway packers and movers will store your household luggage in the warehouse to protect it. Interstate moving takes 2 days to 2 weeks, depending on household luggage quantity and distance.</div>
+                      <div class="answer"><?php echo $A1; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq">
-                    <h3 class="question">What to do before home shifting?</h3>
+                    <h3 class="question"><?php echo $Q1; ?></h3>
                     <div class="answercont">
-                      <div class="answer">Three main things are necessary to remember before household shifting.
-                        <ul>
-                          <li><b>01.</b> Clean and prepare your appliances and furniture.</li>
-                          <li><b>02.</b> Take charge of your essential things like laptops and Jewelry.</li>
-                          <li><b>03.</b> List out all the inventory on paper or a Notebook.</li>
-                        </ul>
-                      </div>
+                      <div class="answer"><?php echo $A1; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq" style="border-bottom: none">
-                    <h3 class="question">How to plan a long-distance home shifting from Hisar? </h3>
+                    <h3 class="question"><?php echo $Q1; ?></h3>
                     <div class="answercont">
-                      <div class="answer">Planning is necessary to protect yourself from any mistakes. As a part of planning, do these things first.
-                        <ul>
-                          <li><b>01.</b> Check whether moving during a sunny day is advisable to avoid any issues.</li>
-                          <li><b>02.</b> Clear all the courtesies like payment, tax, and insurance with your mover.</li>
-                          <li><b>03.</b> Cook your food before shifting or packing kitchen items for long moving.</li>
-                          <li><b>04.</b> Keep small and precious items with yourself like jewellery etc.</li>
-                          <li><b>05.</b> Check the car registration and state rules for housing.</li>
-                          <li><b>06.</b> And keep the other house clean and ready where you are moving.</li>
-                        </ul>
-                        After that, you have to arrange things. Make a list of the whole inventory and divide them based on importance and sensitivity. After that, clean your electronic appliances and furniture to disassemble them further. You must prepare your moving bags with Jewelry, Medicines, Laptops, Some clothes, and an essential hygienic kit. Remember to cancel your utility services like LPG, Water supply, Electricity, Etc. It will increase unnecessary bills
-                      </div>
+                      <div class="answer"><?php echo $A1; ?></div>
                     </div>
                   </div>
                 </div>
@@ -352,6 +374,9 @@
         }
     </script>
     <script src="js/script.js" defer></script>
+
+    <!-- === BreadcrumbList schema === -->
+
     <script type="application/ld+json">
     {
     "@context": "https://schema.org/", 
@@ -369,6 +394,8 @@
     }]
     }
     </script>
+
+    <!-- === localBusiness schema === -->
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -381,6 +408,8 @@
             "name": "Shiftingway Packers and Movers"
         }
   </script>
+
+  <!-- === web site schema === -->
   <script type="application/ld+json">
         {
          "@context": "https://schema.org",
@@ -394,5 +423,63 @@
          }
         }
   </script>
+
+  <!-- === FAQs schema === -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "<?php echo $Q1; ?>",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<?php echo $A1; ?>"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "<?php echo $Q2; ?>",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<?php echo $A2; ?>"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "<?php echo $Q3; ?>",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<?php echo $A3; ?>"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "<?php echo $Q4; ?>",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<?php echo $A4; ?>"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "<?php echo $Q5; ?>",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<?php echo $A5; ?>"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "<?php echo $Q6; ?>",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<?php echo $A6; ?>"
+        }
+      }]
+    }
+  </script>
+
+
 </body>
 </html>
