@@ -3,8 +3,8 @@ RewriteEngine On
 # Canonical HTTPS/non-WWW
 <IfModule mod_rewrite.c>
 	RewriteCond %{HTTPS} off [OR]
-	RewriteCond %{HTTP_HOST} ^www\.shiftingway\.com [NC]
-	RewriteRule (.*) https://shiftingway.com/$1 [L,R=301]
+	RewriteCond %{HTTP_HOST} ^shiftingway\.com$ [NC]
+	RewriteRule ^(.*)$ http://www.shiftingway.com/$1 [R=301,L]
 </IfModule>
 
 # 404 page redrecer
