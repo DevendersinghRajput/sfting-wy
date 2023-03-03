@@ -15,8 +15,8 @@
 
 # 404 page redrecer
 
-#ErrorDocument 404 https://shiftingway.com/404-error/
-#Options All -Indexes
+ErrorDocument 404 https://shiftingway.com/404-error/
+Options All -Indexes
 
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
