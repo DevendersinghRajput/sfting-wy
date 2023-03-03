@@ -1,14 +1,17 @@
-# Canonical https/www
-RewriteBase /
-RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+RewriteEngine On
+
+# Canonical HTTPS/non-WWW
+<IfModule mod_rewrite.c>
+	RewriteCond %{HTTPS} off [OR]
+	RewriteCond %{HTTP_HOST} ^www\.shiftingway\.com [NC]
+	RewriteRule (.*) https://shiftingway.com/$1 [L,R=301]
+</IfModule>
 
 # 404 page redrecer
 
 ErrorDocument 404 https://shiftingway.com/404-error
 Options All -Indexes
 
-RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
