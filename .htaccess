@@ -1,21 +1,16 @@
 # Canonical https/www
-#<IfModule mod_rewrite.c>
-#	RewriteCond %{HTTPS} off
-#	RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-#	
-#	RewriteCond %{HTTP_HOST} !^www\. [NC]
-#	RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-#</IfModule>
+<IfModule mod_rewrite.c>
+	RewriteCond %{HTTPS} off
+	RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+	
+	RewriteCond %{HTTP_HOST} !^www\. [NC]
+	RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
 
-# php extantion remover
-#RewriteEngine On
-#RewriteCond %{REQUEST_FILENAME} !-f
-#RewriteCond %{REQUEST_FILENAME} !-d
-#RewriteRule . /index.php [L]
 
 # 404 page redrecer
 
-ErrorDocument 404 https://shiftingway.com/404-error/
+ErrorDocument 404 https://shiftingway.com/404-error
 Options All -Indexes
 
 RewriteEngine On
