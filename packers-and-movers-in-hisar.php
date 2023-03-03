@@ -312,37 +312,37 @@
                   </div>
     
                   <div class="container-faq">
-                    <h3 class="question"><?php echo $Q1; ?></h3>
+                    <h3 class="question"><?php echo $Q2; ?></h3>
                     <div class="answercont">
-                      <div class="answer"><?php echo $A1; ?></div>
+                      <div class="answer"><?php echo $A2; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq">
-                    <h3 class="question"><?php echo $Q1; ?></h3>
+                    <h3 class="question"><?php echo $Q3; ?></h3>
                     <div class="answercont">
-                      <div class="answer"><?php echo $A1; ?></div>
+                      <div class="answer"><?php echo $A3; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq">
-                    <h3 class="question"><?php echo $Q1; ?></h3>
+                    <h3 class="question"><?php echo $Q4; ?></h3>
                     <div class="answercont">
-                      <div class="answer"><?php echo $A1; ?></div>
+                      <div class="answer"><?php echo $A4; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq">
-                    <h3 class="question"><?php echo $Q1; ?></h3>
+                    <h3 class="question"><?php echo $Q5; ?></h3>
                     <div class="answercont">
-                      <div class="answer"><?php echo $A1; ?></div>
+                      <div class="answer"><?php echo $A5; ?></div>
                     </div>
                   </div>
     
                   <div class="container-faq" style="border-bottom: none">
-                    <h3 class="question"><?php echo $Q1; ?></h3>
+                    <h3 class="question"><?php echo $Q6; ?></h3>
                     <div class="answercont">
-                      <div class="answer"><?php echo $A1; ?></div>
+                      <div class="answer"><?php echo $A6; ?></div>
                     </div>
                   </div>
                 </div>
