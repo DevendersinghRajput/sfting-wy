@@ -17,3 +17,8 @@
 
 #ErrorDocument 404 https://shiftingway.com/404-error/
 #Options All -Indexes
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
