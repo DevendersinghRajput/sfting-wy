@@ -1,0 +1,318 @@
+
+/* ============= footer =============== */
+
+/* ========= footer top ========== */
+.footer-section{
+    padding: 100px 0px;
+}
+.footer-container{
+    background-color: var(--bgc-color);
+    color: var(--white);
+    padding: 30px 50px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.top-footer{
+    width: 100%;
+    border-bottom: 1px solid var(--lite-font);
+}
+.top-footer-left,
+.top-footer-right{
+    width: 100%;
+    padding: 25px 0px;
+}
+.top-footer-left{
+    padding: 25px;
+    border-right: 1px solid var(--lite-font);
+    overflow: hidden;
+}
+.top-footer-left-head{
+    font-size: 26px;
+    color: var(--white);
+    font-weight: 700;
+    max-width: 250px;
+    width: 100%;
+}
+.footer-social-items {
+    gap: 10px;
+    max-width: 214px;
+    width: 100%;
+    padding-right: 37px;
+}
+.footer-social-item{
+    background-color: var(--bgc-color);
+    border-radius: 30px;
+    height: fit-content;
+    border: 1px solid var(--bgc-color);
+    transition: all 0.2s ease-in-out;
+}
+.footer-social-item a{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--bgc-color);
+    border-radius: 30px;
+    transition: all 0.2s ease-in-out;
+}
+.footer-social-item:hover{
+    border: 1px solid var(--white);
+}
+.footer-social-item:hover > a > svg > path{
+    fill: var(--them-color);
+}
+.footer-social-item > a > svg > rect{
+    transition: all 0.2s ease-in-out;
+}
+.footer-social-item:hover > a > svg > rect{
+    fill: var(--bgc-color);
+}
+
+.top-footer-right{
+    padding: 25px;
+}
+.top-footer-right-head{
+    font-size: 26px;
+    max-width: 130px;
+    width: 100%;
+    font-weight: 700;
+}
+.footer-form{
+    position: relative;
+    max-width: 360px;
+    width: 100%;
+}
+.footer-form input{
+    width: 100%;
+    max-width: 360px;
+    padding: 16px 12px;
+    border: 2px solid #ffffff;
+    outline: none;
+    border-radius: 7px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.footer-form input:focus{
+    border: 2px solid #ffb867;
+}
+.footer-form button{
+    width: 100%;
+    max-width: 50px;
+    position: absolute;
+    right: 6px;
+    padding: 8px 0px;
+    cursor: pointer;
+    background-color: #ffb867;
+    border: none;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+}
+.footer-form button:hover{
+   background-color: var(--bgc-color);
+}
+.footer-form button svg path{
+    transition: all 0.2s ease-in-out;
+    transform: scale(1);
+}
+.footer-form button svg{
+    transition: all 0.2s ease-in-out;
+    transform: scale(1);
+}
+.footer-form button:hover svg{
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.2);
+}
+.footer-form button:hover > svg path{
+    fill: #ffb867;
+}
+
+
+/* ========= footer top close========== */
+
+
+/* ========= footer mid ========== */
+.mid-footer {
+    padding: 30px 0px;
+}
+.mid-left-footer{
+    max-width: 300px;
+    justify-content: center;
+}
+.footer-logo{
+    max-width: 300px;
+    width: 100%;
+    height: 100%;
+    max-height: 200px;
+}
+.footer-logo svg {
+    width: 100%;
+    margin: auto;
+    display: flex;
+}
+.footer-map-location{
+    max-width: 250px;
+    width: 100%;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.footer-map-location iframe{
+    border-radius: 10px;
+    max-height: 100px;
+}
+.mid-right-footer{
+    max-width: 700px;
+    width: 100%;
+    margin-top: 20px;
+}
+.foot-menu{
+    padding: 8px 0px;
+}
+.foot-menu-list-head{
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.foot-menu-list-box{
+    margin-top: 20px;
+}
+.foot-menu-list-item{
+    color: var(--white);
+    font-size: 18px;
+}
+.foot-menu-list-item svg {
+    margin-right: 10px;
+}
+.fotefirstitem{
+    display: block;
+}
+/* ========= footer mid close========== */
+
+
+/* ========= footer lower ========== */
+.lower-footer{
+    border-top: 1px solid var(--lite-font);
+    padding-top: 30px;
+}
+.foot-menu-list-head > svg{
+    display: none;
+}
+/* ========= footer lower close========== */
+
+@media (max-width: 1155px){
+    .footer-section{
+        padding: 0px 0px 50px 0px;
+    }
+    .mid-footer{
+        align-items: center;
+    }
+    .footer-map-location{
+        margin-top: 0px;
+    }
+    .top-footer-left,
+    .top-footer-right{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .footer-social-items{
+        /* max-width: 100%; */
+        gap: 10px;
+    }
+    .mid-right-footer{
+        flex-direction: column;
+        margin-left: 25px;
+        max-width: 360px;
+    }
+    .foot-menu-list-box{
+        display: none;
+        transition: all 0.3s ease-in-out;
+    }
+    .foot-menu-list-box{
+        padding: 20px 0px 0px 0px;
+        border-top: 1px solid var(--paragraph-light-color);
+    }
+    .foot-menu-list-head svg{
+        display: block;
+    }
+    .foot-menu-list-head.active ~ .foot-menu-list-box{
+        display: block;
+        transition: all 0.3s ease-in-out;
+    }
+    .foot-menu-list-head.active > svg{
+        transform: rotate(180deg);
+    }
+    .footer-menu-lists{
+        padding: 15px 0px;
+        border-bottom: 1px solid var(--paragraph-light-color);
+        transition: all 0.3s ease-in-out;
+    }
+}
+
+@media (max-width: 655px){
+    .footer-container{
+        padding: 20px ;
+    }
+    .top-footer{
+        flex-direction: column;
+    }
+    .top-footer-left, .top-footer-right{
+        border: none;
+        gap: 15px;
+        padding: 20px 0px;
+        /* align-items: center; */
+    }
+    .mid-footer{
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        padding: 50px 0px;
+    }
+    .footer-social-items{
+        padding: 0;
+    }
+    .mid-right-footer{
+        margin: 25px 0px;
+        max-width: 100%;
+    }
+    .footer-map-location{
+        max-width: 100%;
+    }
+    .mid-left-footer{
+        max-width: 100%;
+        margin: 25px auto 0px;
+    }
+    .footer-social-items{
+        gap: 7px;
+    }
+    .top-footer-left-head{
+        display: none;
+    }
+    .top-footer-left-head,
+    .top-footer-right-head{
+        font-size: 20px;
+        max-width: 100%;
+    }
+    .footer-logo{
+        margin: 0px 0px 5px 0px;
+    }
+    .footer-logo> svg {
+        width: 200px;
+        margin: 0;
+        height: fit-content;
+    }
+    .foot-menu-list-head{
+        font-size: 16px;
+    }
+    .foot-menu-list-item{
+        font-size: 14px;
+    }
+    .foot-menu-list-head > svg {
+        width: 11px;
+    }
+    .left-lower-side{
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+/* ============== footer close ================ */
+
+
