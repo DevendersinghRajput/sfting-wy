@@ -300,7 +300,7 @@
             <div class="faq-section">
               <h2 class="faqs-main-heading">Frequently Asked Questions (FAQs)</h2>
               <p class="faqs-main-content">
-                Most Common questions about Best Packers and Movers in India.
+                Most Common questions about Best Packers and Movers in <?php echo $city; ?>.
               </p>
               <div class="faqs r-flex jut-sb">
                 <div class="faq-container-box">
