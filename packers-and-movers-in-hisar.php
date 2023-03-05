@@ -417,7 +417,7 @@
          "url": "https://www.shiftingway.com",
          "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://www.shiftingway.in/<?php echo $last_dom; ?><?php echo $smal_city; ?>",
+            "target": "https://www.shiftingway.com/<?php echo $last_dom; ?><?php echo $smal_city; ?>",
             "query-input": "required name=search_term",
             "inLanguage":"en-US"
          }

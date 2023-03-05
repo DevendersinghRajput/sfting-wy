@@ -1835,7 +1835,7 @@
             "url": "https://www.shiftingway.com",
             "potentialAction": {
                 "@type": "SearchAction",
-                "target": "https://www.shiftingway.con/",
+                "target": "https://www.shiftingway.com/",
                 "query-input": "required name=search_term",
                 "inLanguage":"en-US"
             }
