@@ -22,7 +22,6 @@
     <!-- ====== css link ======= -->
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/header.css">
-    <link rel="stylesheet" href="css/about.css">
     <link rel="stylesheet" href="css/footer.css">
 
     <style>
