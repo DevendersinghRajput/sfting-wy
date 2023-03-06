@@ -70,5 +70,5 @@ if (isset($_POST['PhoneNumber'])) {
 
 // Header("Location: https://asknavigator.com/user?q=".$pageid);
 
- header("Location: https://www.shiftingway.com/user?q=");
+ header("Location: https://www.shiftingway.com/user?q=".$pageid);
 ?>
