@@ -1,7 +1,7 @@
 <!-- ========= form pop - up ============ -->
 <div class="terigerd-box" id="myPopup">
         <div class="overlaye-form " onclick="myFunction()"></div>
-        <form action="include/mail.php" class="form-trigerd r-flex ali-c jut-sb flex-w">
+        <form action="include/mail" class="form-trigerd r-flex ali-c jut-sb flex-w">
             <input class="form-pop-input" type="name" id="name" name="name" placeholder="Enter your name..." autocomplete="off">
             <input class="form-pop-input"  type="text" id="reloctionFrom" name="reloctionFrom" value="<?php echo $city; ?>" placeholder="Pick-up point..." autocomplete="off">
             <input class="form-pop-input" type="text" id="reloctionto" name="reloctionto" placeholder="Drop point..." autocomplete="off">

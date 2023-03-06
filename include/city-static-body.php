@@ -373,7 +373,7 @@
                         <div class="right-hero-sec">
                             <h2 class="home-hero-form-head">Get Affordable Quotation</h2>
                             <div class="home-form">
-                              <form action="include/mail.php" class="c-flex">
+                              <form action="include/mail" class="c-flex">
                                 <input type="name" name="name" id="name" placeholder="Enter Your Name" autocomplete="off" />
                                 <input type="text" name="reloctionto" id="reloctionto" placeholder="Pick Up Location" value="<?php echo $city; ?>" autocomplete="off" />
                                 <input type="text" name="reloctionFrom" id="reloctionFrom" placeholder="Drop Location" autocomplete="off" />
