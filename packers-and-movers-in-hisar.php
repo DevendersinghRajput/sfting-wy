@@ -228,7 +228,7 @@
 
                             <h4>Loading:</h4>
                             <p> After packing, shiftingway packers and movers will load your goods onto the truck. We use specialised equipment such as dollies, ramps, and lifters to ensure your belongings are safe and efficient loading. Your good’s safety is our top priority.</p>
-                            <p>If you are perplexed in choosing the best packers and movers from the top ones, then Asknavigator will help you by comparing the prices and making it easier for you to choose the best-suited as per your requirements budget. In this way, you can get your best price with the help of Asknavigator.</p>
+                            <p>If you are perplexed in choosing the best packers and movers from the top ones, then shiftingway will help you by comparing the prices and making it easier for you to choose the best-suited as per your requirements budget. In this way, you can get your best price with the help of Shiftingway.</p>
                             <h4>Transportation:</h4>
                             <p>The next step is transportation. We use well-maintained trucks and mini trucks to transport your goods to the new location depending on the number and weight of your goods. We also provide live tracking and communication facilities so that you can stay updated on the status of your good's location.</p>
 
