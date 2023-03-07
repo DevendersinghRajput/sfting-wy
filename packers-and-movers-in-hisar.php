@@ -271,7 +271,7 @@
                             <p>Shiftingway Packers movers in Hisar save you time by handling the entire moving process. Everything is on time, from packing, moving, loading, unloading and fast delivery.</p>
 
                             <h4>Safety:</h4>
-                            <p>Packers movers in Delhi use high-quality packing materials and specialised equipment to ensure the safe transportation of your goods. They also have insurance coverage, which provides additional protection for your belongings.</p>
+                            <p>Packers movers in Hisar use high-quality packing materials and specialised equipment to ensure the safe transportation of your goods. They also have insurance coverage, which provides additional protection for your belongings.</p>
 
                             <h4>Cost-effective:</h4>
                             <p>Shiftingway packers movers in Hisar are cost-effective and the most affordable movers because we offer extensive services at a reasonable price. We also help you avoid damaging your belongings, which could incur additional expenses.</p>
