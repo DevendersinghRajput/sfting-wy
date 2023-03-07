@@ -966,8 +966,8 @@
                 {
                     "@context": "https://schema.org/",
                     "@type": "Product",
-                    "name": "Packers and Movers in Delhi By AskNavigator",
-                    "image": "https://www.asknavigator.com/assets/img/banner.png",
+                    "name": "Packers and Movers in Hisar by ShiftingWay",
+                    "image": "https://www.shiftingway.com/images/home-hero-barner.png",
                     "aggregateRating": {
                         "@type": "AggregateRating",
                         "ratingValue": "4.9",
