@@ -17,7 +17,7 @@
                             <div class="city-trider-form-box">
                             <div class="form-triger-head">What want to you move</div>
 
-                                <form action="#" class="ctiy-triger-form r-flex ali-c jut-sb flex-w">
+                                <form action="include/mail" class="ctiy-triger-form r-flex ali-c jut-sb flex-w">
 
                                     <input type="radio" name="shifting_item" checked  value="household" id="heroHousehold" class="hide-hero-items-redio">
                                     <label class="form-items " onclick="myFunction()" for="heroHousehold">
