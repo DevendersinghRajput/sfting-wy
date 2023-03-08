@@ -484,7 +484,7 @@
                 "@type": "ListItem", 
                 "position": 2, 
                 "name": "contact",
-                "item": "https://www.shiftingway.com/<?php echo $breadcrumbs_last; ?>"  
+                "item": "https://www.shiftingway.com/<?php echo $last_dom; ?>"  
             }]
             }
         </script>
