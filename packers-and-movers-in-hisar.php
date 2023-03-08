@@ -410,7 +410,7 @@
   </script>
 
   <!-- === web site schema === -->
-  <script type="application/ld+json">
+  <!-- <script type="application/ld+json">
         {
          "@context": "https://schema.org",
          "@type": "WebSite",
@@ -422,7 +422,7 @@
             "inLanguage":"en-US"
          }
         }
-  </script>
+  </script> -->
 
   <!-- === FAQs schema === -->
   <script type="application/ld+json">

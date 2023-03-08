@@ -162,7 +162,7 @@
     }
     </script>
 
-    <script type="application/ld+json">
+    <!-- <script type="application/ld+json">
         {
          "@context": "https://schema.org",
          "@type": "WebSite",
@@ -174,6 +174,6 @@
             "inLanguage":"en-US"
          }
         }
-    </script>
+    </script> -->
     </body>
 </html>

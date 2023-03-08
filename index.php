@@ -1828,7 +1828,7 @@
   <!-- <script src="js/city.js"></script> -->
   <script src="js/script.js" defer></script>
 
-  <script type="application/ld+json">
+  <!-- <script type="application/ld+json">
             {
             "@context": "https://schema.org",
             "@type": "WebSite",
@@ -1840,7 +1840,7 @@
                 "inLanguage":"en-US"
             }
             }
-  </script>
+  </script> -->
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
