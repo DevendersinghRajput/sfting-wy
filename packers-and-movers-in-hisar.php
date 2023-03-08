@@ -411,7 +411,8 @@
                 "@type": "PostalAddress",
                 "streetAddress": "<?php echo $city; ?>, <?php echo $state; ?>",
                 "addressLocality": "<?php echo $city; ?>"
-                "postalCode": "<?php echo $pin_code; ?>",
+                <!-- "postalCode": "<?php echo $pin_code; ?>", -->
+                "postalCode": "125001",
                 "addressCountry": "<?php echo $cuntry; ?>",
                 "addressRegion": "<?php echo $state; ?>"
             },
