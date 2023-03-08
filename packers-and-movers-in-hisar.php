@@ -1,5 +1,8 @@
 <?php $city="Hisar"; ?>
 <?php $smal_city="hisar"; ?>
+<?php $state="Haryana"; ?>
+<?php $cuntry="India"; ?>
+<?php $pin_code="125001"; ?>
 <?php $breadcrumbs_last="packers and movers in"; ?>
 <?php $last_dom="packers-and-movers-in-"; ?>
 
@@ -378,21 +381,21 @@
     <!-- === BreadcrumbList schema === -->
 
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org/", 
-    "@type": "BreadcrumbList", 
-    "itemListElement": [{
-        "@type": "ListItem", 
-        "position": 1, 
-        "name": "home",
-        "item": "https://www.shiftingway.com/"  
-    },{
-        "@type": "ListItem", 
-        "position": 2, 
-        "name": "contact",
-        "item": "https://www.shiftingway.com/<?php echo $breadcrumbs_last; ?> <?php echo $city; ?>"  
-    }]
-    }
+      {
+      "@context": "https://schema.org/", 
+      "@type": "BreadcrumbList", 
+      "itemListElement": [{
+          "@type": "ListItem", 
+          "position": 1, 
+          "name": "home",
+          "item": "https://www.shiftingway.com/"  
+      },{
+          "@type": "ListItem", 
+          "position": 2, 
+          "name": "contact",
+          "item": "https://www.shiftingway.com/<?php echo $breadcrumbs_last; ?> <?php echo $city; ?>"  
+      }]
+      }
     </script>
 
     <!-- === localBusiness schema === -->
@@ -400,12 +403,36 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
+            "telephone": "9817326797",
+            "url": "https://www.shiftingway.com/<?php echo $smal_city; ?>",
+            
+            "image": "https://www.shiftingway.com/images/city-barner.png",
             "address": {
                 "@type": "PostalAddress",
+                "streetAddress": "<?php echo $city; ?>, <?php echo $state; ?>",
                 "addressLocality": "<?php echo $city; ?>"
+                "postalCode": "<?php echo $pin_code; ?>",
+                "addressCountry": "<?php echo $cuntry; ?>",
+                "addressRegion": "<?php echo $state; ?>"
             },
             "description": "We Provide Lowest Price Packers and Movers services in <?php echo $city; ?>. 100% Trusted, Low Prices Guaranted, No Hidden Charges, FREE Support",
-            "name": "Shiftingway Packers and Movers"
+            "name": "Shiftingway Packers and Movers",
+
+            "priceRange": "10000",
+            "openingHoursSpecification": {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00",
+              "closes": "23:59"
+            }
         }
   </script>
 
