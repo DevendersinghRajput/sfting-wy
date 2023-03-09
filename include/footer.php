@@ -54,7 +54,7 @@
                     </li>
 
                     <li class="footer-social-item">
-                        <a href="https://www.facebook.com/shiftingway/" target="_blank">
+                        <a href="https://www.facebook.com/shiftingwayindia/" target="_blank">
                             <svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <rect x="0.162842" width="32" height="32" rx="16" fill="#FFEBB7"/>
                             <path fill-rule="evenodd" clip-rule="evenodd" d="M5.66284 16.0586C5.66284 21.2789 9.45422 25.6197 14.4128 26.5V18.9164H11.7878V16H14.4128V13.6664C14.4128 11.0414 16.1042 9.58362 18.4965 9.58362C19.2542 9.58362 20.0715 9.7 20.8292 9.81638V12.5H19.4878C18.2042 12.5 17.9128 13.1414 17.9128 13.9586V16H20.7128L20.2465 18.9164H17.9128V26.5C22.8715 25.6197 26.6628 21.2798 26.6628 16.0586C26.6628 10.2513 21.9378 5.5 16.1628 5.5C10.3878 5.5 5.66284 10.2513 5.66284 16.0586Z" fill="black"/>
@@ -220,7 +220,7 @@
             "https://www.linkedin.com/in/shiftingway/",
             "https://twitter.com/shiftingwayind/",
             "https://www.instagram.com/shiftingwayindia/",
-            "https://www.facebook.com/shiftingway/"
+            "https://www.facebook.com/shiftingwayindia/"
 
         ]
     }
