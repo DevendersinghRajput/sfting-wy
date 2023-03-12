@@ -11,7 +11,7 @@
     <meta property="og:image:height" content="180" />
     <meta property="og:image:alt" content="shiftingway" />
     <meta property="og:image:type" content="image/png" />
-    <meta property="og:image" content="https://shiftingway.com/images/apple-touch-icon.png" />
+    <meta property="og:image" content="https://www.shiftingway.com/images/apple-touch-icon.png" />
 
     <!-- =========== statice link =========== -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Days+One&family=Karla:wght@400;500;600&display=swap">
