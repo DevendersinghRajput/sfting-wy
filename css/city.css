@@ -24,7 +24,7 @@
 
 .city-heromain-content{
     text-align: center;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 .breadcrumbs{
     color: var(--lite-gry);
@@ -44,9 +44,9 @@
 .city-trider-form-box{
     max-width: 750px;
     background-color: var(--white);
-    padding: 35px;
+    padding: 17px 35px;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 25px;
     border-radius: 9px;
 }
 .ctiy-triger-form{
@@ -122,7 +122,7 @@ input:hover + .form-items .city-item-icon svg path {
     background-color: #141414;
     color: var(--them-color);
     border-radius: 4px;
-    margin-top: 35px;
+    margin-top: 23px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
     transform: scale(1);
