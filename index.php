@@ -253,7 +253,7 @@
             top: 170px;
         }
         .hero-tip-points{
-            margin-top: 465px;
+            margin-top: 485px;
             justify-content: center;
         }
         .hero-tips{
