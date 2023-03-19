@@ -393,7 +393,7 @@
           "@type": "ListItem", 
           "position": 2, 
           "name": "contact",
-          "item": "https://www.shiftingway.com/<?php echo $breadcrumbs_last; ?> <?php echo $city; ?>"  
+          "item": "https://www.shiftingway.com/<?php echo $last_dom; ?> <?php echo $smal_city; ?>"  
       }]
       }
     </script>
@@ -404,7 +404,7 @@
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "telephone": "9817326797",
-            "url": "https://www.shiftingway.com/<?php echo $smal_city; ?>",
+            "url": "https://www.shiftingway.com/<?php echo $last_dom; ?><?php echo $smal_city; ?>",
             
             "image": "https://www.shiftingway.com/images/city-barner.png",
             "address": {
