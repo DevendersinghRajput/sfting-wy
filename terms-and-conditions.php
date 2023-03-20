@@ -231,7 +231,7 @@
     },{
         "@type": "ListItem", 
         "position": 2, 
-        "name": "contact",
+        "name": "<?php echo $last_dom; ?>",
         "item": "https://www.shiftingway.com/<?php echo $breadcrumbs_last; ?>"  
     }]
     }
