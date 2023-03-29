@@ -167,7 +167,7 @@
                         <img src="images/contect-barner.png" alt="contact us">
                     </div>
                     <div class="contact-left c-flex ">
-                        <a href="mailto:shiftingway@gmail.com" class="contact-mail-box r-flex ali-c jut-sb">
+                        <a href="javascript:void(0)" class="contact-mail-box r-flex ali-c jut-sb">
                             <div class="contact-mail-item c-flex ">
                                 <span class="contact-mail-head">Mail</span>
                                 <span class="contact-mail-cont">contact@shiftingway.com</span>
@@ -186,10 +186,10 @@
                             </div>
                         </a>
                         
-                        <a href="tel:+91 9817326797" class="contact-mail-box r-flex ali-c jut-sb">
+                        <a href="javascript:void(0)" class="contact-mail-box r-flex ali-c jut-sb">
                             <div class="contact-mail-item c-flex ">
                                 <span class="contact-mail-head">Call us</span>
-                                <span class="contact-mail-cont">+91 9817-326-797</span>
+                                <span class="contact-mail-cont">+91 000-000-0000</span>
                                 <div class="contact-arrow r-flex ali-c jut-c">
                                     <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M6.77499 1.4L12.375 7H0.174988V9H12.375L6.77499 14.6L8.17499 16C8.17499 16 16.2132 8.35699 16.175 8C16.1368 7.64301 8.17499 0 8.17499 0L6.77499 1.4Z" fill="#FECF58"/>
@@ -205,10 +205,10 @@
                             </div>
                         </a>
                         
-                        <a href="https://wa.me/919817326797?text=I want to packers and movers service" target="" class="contact-mail-box r-flex ali-c jut-sb">
+                        <a href="hjavascript:void(0)" target="" class="contact-mail-box r-flex ali-c jut-sb">
                             <div class="contact-mail-item c-flex ">
                                 <span class="contact-mail-head">What's app Chat</span>
-                                <span class="contact-mail-cont">9817326797</span>
+                                <span class="contact-mail-cont">000-000-0000</span>
                                 <div class="contact-arrow r-flex ali-c jut-c">
                                     <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M6.77499 1.4L12.375 7H0.174988V9H12.375L6.77499 14.6L8.17499 16C8.17499 16 16.2132 8.35699 16.175 8C16.1368 7.64301 8.17499 0 8.17499 0L6.77499 1.4Z" fill="#FECF58"/>
