@@ -205,7 +205,7 @@
                             </div>
                         </a>
                         
-                        <a href="hjavascript:void(0)" target="" class="contact-mail-box r-flex ali-c jut-sb">
+                        <a href="javascript:void(0)" target="" class="contact-mail-box r-flex ali-c jut-sb">
                             <div class="contact-mail-item c-flex ">
                                 <span class="contact-mail-head">What's app Chat</span>
                                 <span class="contact-mail-cont">000-000-0000</span>
