@@ -22,8 +22,9 @@ if (isset($_GET['PhoneNumber'])) {
 
   if(mail($to,$subject,$message, $headers)) {
       //  header("Location:https://quick.asknavigator.com/survey.php");
+      echo "works 1";
   } else {
-      echo "The email message was not sent.";
+      echo "The email message was not sent 1.";
   }
 }
 
