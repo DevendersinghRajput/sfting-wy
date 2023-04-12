@@ -51,14 +51,7 @@ if ($result === false) {
     echo "The message was not sent to Slack.";
 } else {
     echo "The message has been sent to Slack.";
-}
-Replace the $url variable with your own webhook URL, and make sure that the $data array contains the correct information that you want to send to your Slack channel.
-
-
-
-
-
-Regenerate
+};
 
 ?>
 
