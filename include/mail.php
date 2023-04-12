@@ -1,11 +1,11 @@
 <?php
-if (isset($_POST['PhoneNumber'])) {
+if (isset($_GET['PhoneNumber'])) {
   //get data from form
-  $name = $_POST['name'];
-  $PhoneNumber = $_POST['PhoneNumber'];
-  $whatmoving = $_POST['whatmoving'];
-  $reloctionFrom = $_POST['reloctionFrom'];
-  $reloctionto = $_POST['reloctionto'];
+  $name = $_GET['name'];
+  $PhoneNumber = $_GET['PhoneNumber'];
+  $whatmoving = $_GET['whatmoving'];
+  $reloctionFrom = $_GET['reloctionFrom'];
+  $reloctionto = $_GET['reloctionto'];
   $source = "shiftingway";
 
   // Mail Code
@@ -21,7 +21,7 @@ if (isset($_POST['PhoneNumber'])) {
                'X-Mailer: PHP/' . phpversion();
 
   if(mail($to,$subject,$message, $headers)) {
-      echo "sent";
+      //  header("Location:https://quick.asknavigator.com/survey.php");
   } else {
       echo "The email message was not sent.";
   }
@@ -30,3 +30,4 @@ if (isset($_POST['PhoneNumber'])) {
 // header("Location: https://www.shiftingway.com/user?q=".$pageid);
 
 ?>
+
