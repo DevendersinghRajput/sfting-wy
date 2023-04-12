@@ -32,11 +32,7 @@ if (isset($_GET['PhoneNumber'])) {
 
 $url = "https://hooks.slack.com/services/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"; // Replace with your own webhook URL
 $data = array(
-    "text" => "New message from ".$_GET['name']."\n".
-              "Phone number: ".$_GET['PhoneNumber']."\n".
-              "What moving: ".$_GET['whatmoving']."\n".
-              "Relocation from: ".$_GET['reloctionFrom']."\n".
-              "Relocation to: ".$_GET['reloctionto']
+    "text" => "New message from"
 );
 $options = array(
     "http" => array(
