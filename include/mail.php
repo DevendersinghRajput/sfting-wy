@@ -34,7 +34,7 @@ if (isset($_GET['PhoneNumber'])) {
   $message = "*New inquiry*\nName: $name\nPhone Number: $PhoneNumber\nWhat Moving: $whatmoving\nRelocation From: $reloctionFrom\nRelocation To: $reloctionto\nSource: $source";
 
   // Slack webhook URL
-  $slack_url = 'https://hooks.slack.com/services/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';
+  $slack_url = 'https://hooks.slack.com/services/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';
 
   // Set up the Slack API request
   $slack_data = array('text' => $message);
