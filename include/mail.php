@@ -30,7 +30,7 @@ if (isset($_GET['PhoneNumber'])) {
 
 // header("Location: https://www.shiftingway.com/user?q=".$pageid);
 
-$url = "https://hooks.slack.com/services/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"; // Replace with your own webhook URL
+$url = "https://hooks.slack.com/services/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"; // Replace with your own webhook URL
 $data = array(
     "text" => "New message from"
 );
