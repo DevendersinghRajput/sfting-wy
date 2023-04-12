@@ -38,7 +38,7 @@ $options = array(
     "http" => array(
         "header"  => "Content-type: application/json",
         "method"  => "POST",
-        "content" => "{"text":"Hello, World!"}",
+        "content" => '{"text":"Hello, World!"}',
     ),
 );
 $context  = stream_context_create($options);
