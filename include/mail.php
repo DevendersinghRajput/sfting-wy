@@ -30,15 +30,19 @@ if (isset($_GET['PhoneNumber'])) {
 
 // header("Location: https://www.shiftingway.com/user?q=".$pageid);
 
-$url = "https://hooks.slack.com/services/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"; // Replace with your own webhook URL
+$url = "https://hooks.slack.com/services/T01QMA9UN1J/B052CTT20N/jDAgNTzR81XSRjMELYt8"; // Replace with your own webhook URL
 $data = array(
-    "text" => "New message from"
-); 
+    "text" => "New message from ".$name. "\n".
+              "Phone number: ".$PhoneNumber. "\n".
+              "What moving: " .$whatmoving. "\n".
+              "Relocation from: " .$reloctionFrom. "\n".
+              "Relocation to: ".$reloctionto
+);
 $options = array(
     "http" => array(
         "header"  => "Content-type: application/json",
         "method"  => "POST",
-        "content" => '{"text":"Hello, World!"}',
+        "content" => json_encode($data),
     ),
 );
 $context  = stream_context_create($options);
@@ -48,6 +52,9 @@ if ($result === false) {
 } else {
     echo "The message has been sent to Slack.";
 };
+
+ header("Location: https://www.shiftingway.com/user?q=".$pageid);
+
 
 ?>
 
