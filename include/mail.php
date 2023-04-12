@@ -30,32 +30,35 @@ if (isset($_GET['PhoneNumber'])) {
 
 // header("Location: https://www.shiftingway.com/user?q=".$pageid);
 
-  // Build the Slack message
-  $message = "*New inquiry*\nName: $name\nPhone Number: $PhoneNumber\nWhat Moving: $whatmoving\nRelocation From: $reloctionFrom\nRelocation To: $reloctionto\nSource: $source";
+$url = "https://hooks.slack.com/services/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"; // Replace with your own webhook URL
+$data = array(
+    "text" => "New message from ".$_GET['name']."\n".
+              "Phone number: ".$_GET['PhoneNumber']."\n".
+              "What moving: ".$_GET['whatmoving']."\n".
+              "Relocation from: ".$_GET['reloctionFrom']."\n".
+              "Relocation to: ".$_GET['reloctionto']
+);
+$options = array(
+    "http" => array(
+        "header"  => "Content-type: application/json",
+        "method"  => "POST",
+        "content" => json_encode($data),
+    ),
+);
+$context  = stream_context_create($options);
+$result = file_get_contents($url, false, $context);
+if ($result === false) {
+    echo "The message was not sent to Slack.";
+} else {
+    echo "The message has been sent to Slack.";
+}
+Replace the $url variable with your own webhook URL, and make sure that the $data array contains the correct information that you want to send to your Slack channel.
 
-  // Slack webhook URL
-  $slack_url = 'https://hooks.slack.com/services/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';
-
-  // Set up the Slack API request
-  $slack_data = array('text' => $message);
-  $options = array(
-      'http' => array(
-          'header'  => 'Content-type: application/json',
-          'method'  => 'POST',
-          'content' => json_encode($slack_data)
-      )
-  );
-  $context  = stream_context_create($options);
-  $result = file_get_contents($slack_url, false, $context);
-
-  // Check if the message was sent successfully
-  if ($result === false) {
-      echo "The message was not sent to Slack.";
-  } else {
-      echo "The message was sent to Slack.";
-  }
 
 
+
+
+Regenerate
 
 ?>
 
