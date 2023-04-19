@@ -631,7 +631,7 @@ input:hover + .form-items .city-item-icon svg path {
         display: flex;
         position: fixed;
         left: 0;
-        z-index: 1;
+        z-index: 4;
     }
 }
 @media (max-width: 700px){
