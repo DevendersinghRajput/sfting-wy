@@ -57,8 +57,8 @@
     <?php include'include/stactic-meta.php'; ?>
     
     <!-- ====== css link ======= -->
-    <link rel="stylesheet" href="css/city.css?version=0.1.7">
-    <link rel="preload" href="css/city.css?version=0.1.7" as="style"> 
+    <link rel="stylesheet" href="css/city.css?version=0.1.8">
+    <link rel="preload" href="css/city.css?version=0.1.8" as="style"> 
     <!-- =========== change meta tages ======== -->
     <title>Best Packers and movers in Hisar - ShiftingWay Packers</title>
     <meta name="description" content="Whether moving locally or long-distance in Hisar, Shiftingway provides customized solutions. Contact us today for a seamless and hassle-free home shifting." />
@@ -376,7 +376,7 @@
             document.body.classList.toggle("noscroll");
         }
     </script>
-    <script src="js/script.js?v=0.0.3" defer></script>
+    <script src="js/script.js?v=0.0.5" defer></script>
 
     <!-- === BreadcrumbList schema === -->
 

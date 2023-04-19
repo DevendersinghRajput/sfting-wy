@@ -624,7 +624,7 @@ input:hover + .form-items .city-item-icon svg path {
     }
     .stikiy-btn-on-scroll > a{
         background-color: var(--bgc-color);
-        padding: 12px 25px 5px 25px;
+        padding: 12px 45px 5px 45px;
         border-radius: 7px;
     }
     .test{

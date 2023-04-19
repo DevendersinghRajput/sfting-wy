@@ -357,7 +357,7 @@ var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
 var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
 var scrolled = (winScroll / height) * 100;
 console.log(scrolled);
-    if (scrolled > 3 && scrolled < 82) {
+    if (scrolled > 1 && scrolled < 82) {
     console.log("SAD");
     document.querySelector("div#back-top").classList.add("test");
     } 
