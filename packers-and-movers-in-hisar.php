@@ -376,7 +376,7 @@
             document.body.classList.toggle("noscroll");
         }
     </script>
-    <script src="js/script.js" defer></script>
+    <script src="js/script.js?v=0.0.3" defer></script>
 
     <!-- === BreadcrumbList schema === -->
 
