@@ -70,7 +70,7 @@
                 <div class="top-footer-right r-flex ali-c jut-sb">
                     <div class="top-footer-right-head" onclick="footerFuncationItemFrst()">Free Quotation</div>
                     <form action="include/mail" class="footer-form r-flex ali-c jut-c">
-                        <input type="number" name="PhoneNumber" id="PhoneNumber" placeholder="Enter Mobile Number...">
+                        <input type="tel" name="PhoneNumber" id="PhoneNumber" required="required" pattern="^[6789]\d{9}$" placeholder="Enter Mobile Number...">
                         <button type="submit">
                         <svg width="25" height="21" viewBox="0 0 25 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M22.8178 0.662144L1.55843 8.80801C0.10756 9.38704 0.115954 10.1913 1.29223 10.5499L6.75037 12.2417L19.3789 4.32462C19.976 3.96362 20.5216 4.15782 20.0732 4.55338L9.84155 13.7286H9.83916L9.84155 13.7298L9.46505 19.3201C10.0166 19.3201 10.26 19.0687 10.5694 18.772L13.2205 16.2104L18.735 20.2577C19.7518 20.8141 20.482 20.5282 20.735 19.3224L24.355 2.37067C24.7255 0.894475 23.7879 0.226078 22.8178 0.662144Z" fill="black"/>
