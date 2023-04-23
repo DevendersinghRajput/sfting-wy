@@ -218,12 +218,12 @@
     background: #000000;
     position: fixed;
     /* border: 1px solid #000000; */
-    right: 50px;
+    right: 10px;
     width: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
-    bottom: 50px;
+    bottom: 35%;
     height: 50px;
     margin: 0 auto;
     border-radius: 100%;
