@@ -1,5 +1,9 @@
 <!-- ============ header ========== -->
 <header>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XLWN7D"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         <nav>
             <div class="sidebar">
                 <div class="logo">
