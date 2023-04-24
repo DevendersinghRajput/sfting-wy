@@ -386,9 +386,9 @@
                 <input type="name" naem="name" id="name" placeholder="Enter Your Name" autocomplete="off" />
                 <input type="text" naem="reloctionto" id="reloctionto" placeholder="Pick Up Location" autocomplete="off" />
                 <input type="text" naem="reloctionFrom" id="reloctionFrom" placeholder="Drop Location" autocomplete="off" />
-                <input type="number" name="PhoneNumber" id="PhoneNumber" autocomplete="off" placeholder="Enter Mobile No." pattern="^[6789]\d{9}$" />
+                <input type="number" onclick="gtag('event', 'mobile_numbar_click');" name="PhoneNumber" id="PhoneNumber" autocomplete="off" placeholder="Enter Mobile No." pattern="^[6789]\d{9}$" />
                 <div class="custom-select">
-                  <select name="whatmoving" id="movingitem">
+                  <select name="whatmoving" onclick="gtag('event', 'bhk_selection_click');" id="movingitem">
                     <option value="0">Select items</option>
                     <option value="1">Full Houshold</option>
                     <option value="2">Vehicle</option>
@@ -397,7 +397,7 @@
                     <option value="5">Other</option>
                   </select>
                 </div>
-                <button type="submit" name="send">Submit</button>
+                <button type="submit" name="send" onclick="gtag('event', 'data_submit_btn_click');">Submit</button>
               </form>
             </div>
           </div>
