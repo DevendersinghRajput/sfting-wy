@@ -1,6 +1,50 @@
 
 /* ============= main ============= */
-
+.stikiy-btn-on-scroll{
+    display: none;
+}
+@media (max-width: 1050px){
+    .right-aside{
+        display: none;
+    }
+    .aside-box{
+        gap: 0px;
+        justify-content: center;
+    }
+    .stikiy-btn-on-scroll {
+        justify-content: center;
+        z-index: 3;
+        background-color: #ffffff;
+        padding: 6px 10px 10px 10px;
+        width: 100%;
+        bottom: 0px;
+        gap: 5px;
+        display: none;
+    }
+    .stikiy-btn-on-scroll > span {
+        padding: 12px 0px;
+        background-color: var(--bgc-color);
+        color: var(--white);
+        border-radius: 7px;
+        width: 95%;
+        display: flex;
+        position: relative;
+        /* left: 2%; */
+        justify-content: center;
+        cursor: pointer;
+    }
+    .stikiy-btn-on-scroll > a{
+        background-color: var(--bgc-color);
+        padding: 12px 45px 5px 45px;
+        border-radius: 7px;
+    }
+    .test{
+        display: flex;
+        position: fixed;
+        left: 0;
+        z-index: 4;
+    }
+}
 
 
 
