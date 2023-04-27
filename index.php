@@ -390,11 +390,11 @@
                 <div class="custom-select">
                   <select name="whatmoving" onclick="gtag('event', 'bhk_selection_click');" id="movingitem">
                     <option value="0">Select items</option>
-                    <option value="1">Full Houshold</option>
-                    <option value="2">Vehicle</option>
-                    <option value="3">Office</option>
-                    <option value="4">Some items</option>
-                    <option value="5">Other</option>
+                    <option value="full_houshold">Full Houshold</option>
+                    <option value="vehicle">Vehicle</option>
+                    <option value="office">Office</option>
+                    <option value="some">Some items</option>
+                    <option value="other">Other</option>
                   </select>
                 </div>
                 <button type="submit" name="send" onclick="gtag('event', 'data_submit_btn_click');">Submit</button>
