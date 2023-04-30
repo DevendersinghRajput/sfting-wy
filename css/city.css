@@ -617,12 +617,11 @@ input:hover + .form-items .city-item-icon svg path {
     }
 }
 @media (max-width: 1050px){
-    .right-aside{
-        display: none;
-    }
+    
     .aside-box{
         gap: 0px;
         justify-content: center;
+        flex-direction: column;
     }
     .stikiy-btn-on-scroll {
         justify-content: center;
@@ -1252,9 +1251,7 @@ form:invalid button {
         margin-top: 550px;
     }
     .right-hero-sec{
-        position: absolute;
-        top: 230px;
-        max-width: 100%;
+        margin-top: 30px;
     }
     .home-form{
         max-width: 100%;
