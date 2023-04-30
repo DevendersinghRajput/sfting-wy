@@ -54,11 +54,18 @@
 }
 .form-triger-head{
     font-size: 20px;
+    margin: auto;
     font-weight: 600;
     color: var(--lite-font);
     margin-bottom: 25px;
     text-align: center;
+    background: #000000;
+    color: #ffffff;
+    width: fit-content;
+    padding: 3px 15px;
+    border-radius: 4px;
 }
+
 .form-triger-head::after{
     content: "";
     max-width: 150px;

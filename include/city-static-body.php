@@ -15,7 +15,7 @@
                         </div>
                         <div class="herocity-form-triger">
                             <div class="city-trider-form-box">
-                            <div class="form-triger-head">What want to you move</div>
+                            <div class="form-triger-head">What you want to move</div>
 
                                 <form action="include/mail" class="ctiy-triger-form r-flex ali-c jut-sb flex-w">
 
