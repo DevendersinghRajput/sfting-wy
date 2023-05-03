@@ -1251,7 +1251,9 @@ form:invalid button {
         margin-top: 550px;
     }
     .right-hero-sec{
-        margin-top: 30px;
+        margin: auto;
+        margin-top: 65px;
+        max-width: 100%;
     }
     .home-form{
         max-width: 100%;
