@@ -114,7 +114,7 @@
                         </li>
 
                         <li class="foot-menu">
-                            <a href="#service" class=" foot-menu-list-item r-flex ali-c">Warehouse Strorage</a>
+                            <a href="#service" class=" foot-menu-list-item r-flex ali-c">Warehouse Storage</a>
                         </li>
                     </ul>
                 </div>

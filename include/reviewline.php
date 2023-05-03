@@ -9,7 +9,7 @@
                             </div>
                             <div class="review-brakline-cont">
                             <i>in categories</i>
-                            <b>packering & loading, Home shifting, Transportation and
+                            <b>packing & loading, Home shifting, Transportation and
                                 Office Moving</b>
                             </div>
                             <div class="review-brack-line-reight">

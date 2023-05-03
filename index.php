@@ -506,7 +506,7 @@
               <div class="proces-fill-line-2"></div>
               <div class="home-process-head">Shift your Luggage</div>
               <div class="home-process-cont">
-                Then we shift your luggage to your destination with 100% luggage safety within minimal time, so you don’t have to wait.
+                Then we shift your luggage to your destination with 100% luggage safety within minimum time, so you don’t have to wait.
               </div>
             </div>
           </div>
