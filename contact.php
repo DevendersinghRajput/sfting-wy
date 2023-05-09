@@ -186,7 +186,7 @@
                             </div>
                         </a>
                         
-                        <a href="tel:+91 8222061512" class="contact-mail-box r-flex ali-c jut-sb">
+                        <a href="tel:+91 8222061512" class="contact-mail-box r-flex ali-c jut-sb" onclick="gtag('event', 'contect_us_call');">
                             <div class="contact-mail-item c-flex ">
                                 <span class="contact-mail-head">Call us</span>
                                 <span class="contact-mail-cont">+91 82220 62512</span>
