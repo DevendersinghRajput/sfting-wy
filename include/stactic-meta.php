@@ -2,6 +2,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#ffe59e" />
     <!-- og: tages -->
     <meta property="og:type" content="article" />
     <meta property="og:locale" content="en_US" />
