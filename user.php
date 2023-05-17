@@ -130,7 +130,7 @@
                                 <h2 class="thank-sub-heading">Your Information is Securely Received, We will call you few minutes</h2>
                                 <div class="thank-hero-btn r-flex ali-c">
                                     <a href="tel:8222061512" class="herobtn r-flex ali-c jut-c hero-call-btn">Urgent Call</a>
-                                    <a href="https://www.shiftingway.com/packers-and-movers-in-hisar#service" class="herobtn r-flex ali-c jut-c">Relative Services</a>
+                                    <a href="#relative_service" class="herobtn r-flex ali-c jut-c">Relative Services</a>
                                 </div>
                             </div>
                         </div>
