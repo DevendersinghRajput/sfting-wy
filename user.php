@@ -18,11 +18,11 @@
     <link rel="preload" as="image" href="images/thank-barner.gif">
 
     <!-- ========== css link ========= -->
-    <link rel="preload" href="css/css/user.css?version=0.1.3" as="style">
+    <link rel="preload" href="css/css/user.css?version=0.1.4" as="style">
     <link rel="preload" href="ccss/city.css?version=0.1.1" as="style">
 
     <link rel="stylesheet" href="css/city.css?version=0.1.1">
-    <link rel="stylesheet" href="css/user.css?version=0.1.3">
+    <link rel="stylesheet" href="css/user.css?version=0.1.4">
     <style>
         .thank-you-container{
             padding: 30px 0px 0px 0px;

@@ -261,9 +261,6 @@
         gap: 9px;
     }
     .mostpopuler_services::after {
-        border-left: 8px solid #000000;
-        border-top: 8px solid #000000;
-        border-left: 8px solid #6e6e6e;
-        border-left: 8px solid #d4000000;
+       display: none;
     }
 }
