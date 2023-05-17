@@ -166,7 +166,7 @@
                                         <div class="rating_count">15.9K Ratings</div>
                                     </div>
                                     <div class="services_location r-flex ali-c">
-                                        <span class="service_city">Hisar City</span>
+                                        <span class="service_city">All India</span>
                                         <span class="services_timeline">Open 24/7 Hrs</span>
                                     </div>
                                     <div class="mostpopuler_services">Most Popular Service</div>
@@ -204,7 +204,7 @@
                                         <div class="rating_count">2.9K Ratings</div>
                                     </div>
                                     <div class="services_location r-flex ali-c">
-                                        <span class="service_city">Hisar City</span>
+                                        <span class="service_city">All India</span>
                                         <span class="services_timeline">Open 24/7 Hrs</span>
                                     </div>
                                     <!-- <div class="mostpopuler_services">Most Popular Service</div> -->
@@ -242,7 +242,7 @@
                                         <div class="rating_count">12.1K Ratings</div>
                                     </div>
                                     <div class="services_location r-flex ali-c">
-                                        <span class="service_city">Hisar City</span>
+                                        <span class="service_city">All India</span>
                                         <span class="services_timeline">Open 24/7 Hrs</span>
                                     </div>
                                     <div class="mostpopuler_services">Most Popular Service</div>
@@ -280,7 +280,7 @@
                                         <div class="rating_count">7.4K Ratings</div>
                                     </div>
                                     <div class="services_location r-flex ali-c">
-                                        <span class="service_city">Hisar City</span>
+                                        <span class="service_city">All India</span>
                                         <span class="services_timeline">Open 24/7 Hrs</span>
                                     </div>
                                     <div class="mostpopuler_services">Most Popular Service</div>
@@ -318,7 +318,7 @@
                                         <div class="rating_count">9.7K Ratings</div>
                                     </div>
                                     <div class="services_location r-flex ali-c">
-                                        <span class="service_city">Hisar City</span>
+                                        <span class="service_city">All India</span>
                                         <span class="services_timeline">Open 24/7 Hrs</span>
                                     </div>
                                     <div class="mostpopuler_services">Most Popular Service</div>
@@ -356,7 +356,7 @@
                                         <div class="rating_count">3.2K Ratings</div>
                                     </div>
                                     <div class="services_location r-flex ali-c">
-                                        <span class="service_city">Hisar City</span>
+                                        <span class="service_city">All India</span>
                                         <span class="services_timeline">Open 24/7 Hrs</span>
                                     </div>
                                     <!-- <div class="mostpopuler_services">Most Popular Service</div> -->
