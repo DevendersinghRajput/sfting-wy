@@ -193,6 +193,12 @@
     .thank-hero-box{
         flex-direction: column;
     }
+    thank_services_box{
+        flex-direction: column;
+    }
+    .right-aside{
+        max-width: 100%;
+    }
     .thanks-services-box-item{
         padding: 25px 10px 55px 10px;
     }
