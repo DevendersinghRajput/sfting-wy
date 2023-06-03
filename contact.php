@@ -186,10 +186,10 @@
                             </div>
                         </a>
                         
-                        <a href="tel:+91 8222061512" class="contact-mail-box r-flex ali-c jut-sb" onclick="gtag('event', 'contect_us_call');">
+                        <a href="tel:+91 9817326797" class="contact-mail-box r-flex ali-c jut-sb" onclick="gtag('event', 'contect_us_call');">
                             <div class="contact-mail-item c-flex ">
                                 <span class="contact-mail-head">Call us</span>
-                                <span class="contact-mail-cont">+91 82220 62512</span>
+                                <span class="contact-mail-cont">+91 98173 26797</span>
                                 <div class="contact-arrow r-flex ali-c jut-c">
                                     <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M6.77499 1.4L12.375 7H0.174988V9H12.375L6.77499 14.6L8.17499 16C8.17499 16 16.2132 8.35699 16.175 8C16.1368 7.64301 8.17499 0 8.17499 0L6.77499 1.4Z" fill="#FECF58"/>

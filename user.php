@@ -129,7 +129,7 @@
                             <div class="thank-right">
                                 <h2 class="thank-sub-heading">Your Information is Securely Received, We will call you few minutes</h2>
                                 <div class="thank-hero-btn r-flex ali-c">
-                                    <a href="tel:8222061512" class="herobtn r-flex ali-c jut-c hero-call-btn">Urgent Call</a>
+                                    <a href="tel:9817326797" class="herobtn r-flex ali-c jut-c hero-call-btn">Urgent Call</a>
                                     <a href="#relative_service" class="herobtn r-flex ali-c jut-c">Relative Services</a>
                                 </div>
                             </div>
