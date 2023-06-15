@@ -377,7 +377,7 @@
                                 <input type="name" name="name" id="name" placeholder="Enter Your Name" autocomplete="off" />
                                 <input type="text" name="reloctionto" id="reloctionto" placeholder="Pick Up Location" value="<?php echo $city; ?>" autocomplete="off" />
                                 <input type="text" name="reloctionFrom" id="reloctionFrom" placeholder="Drop Location" autocomplete="off" />
-                                <input type="number" name="PhoneNumber" onclick="gtag('event', 'side_bar_phone_click');" id="PhoneNumber" autocomplete="off" required="required" placeholder="Enter Mobile No." pattern="^[6789]\d{9}$" />
+                                <input type="number" required="required" name="PhoneNumber" onclick="gtag('event', 'side_bar_phone_click');" id="PhoneNumber" autocomplete="off" placeholder="Enter Mobile No." pattern="^[6789]\d{9}$" />
                                 <div class="custom-select">
                                   <select name="whatmoving" onclick="gtag('event', 'bhk_selection_click');" id="movingitem">
                                     <option value="0">Select items</option>
