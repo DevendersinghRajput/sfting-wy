@@ -46,6 +46,9 @@
     <!-- ======== preloder fonts ======== -->
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Days+One&family=Karla:wght@400;500;600&display=swap" as="font" type="font/otf" crossorigin>
 
+    <!-- =========== socile media meta tag =========== -->
+    <meta name="p:domain_verify" content="f7406ec9f9274d90007b7caf9bff191e"/>
+
     <!-- ====== images preloding ======= -->
     <link rel="preload" as="image" href="images/hisar.png">
     <link rel="preload" as="image" href="images/bengaluru.webp">
