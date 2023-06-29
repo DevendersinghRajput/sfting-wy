@@ -278,7 +278,7 @@
                                 <div class="home-our-services-head city-our-services-hading">Our Services</div>
                                 <div class="city-our-services-cont">All types of packing moving services to fulfil your need at one place.</div>
                                 <div class="home-services-box city-services-box r-flex flex-w jut-sb">
-                                    <div class="home-services-item">
+                                    <div class="home-services-item" onclick="myFunction()">
                                         <div class="home-or-services-img">
                                         <img src="images/home-shifting.png?version=0.0.2" alt="home relocation" loading="lazy" />
                                         </div>
@@ -292,7 +292,7 @@
                                         </div>
                                     </div>
                     
-                                    <div class="home-services-item">
+                                    <div class="home-services-item" onclick="myFunction()">
                                         <div class="home-or-services-img">
                                             <img src="images/office-shifting.png?version=0.0.2" alt="office relocation" loading="lazy" />
                                         </div>
@@ -306,7 +306,7 @@
                                         </div>
                                     </div>
                     
-                                    <div class="home-services-item">
+                                    <div class="home-services-item" onclick="myFunction()">
                                         <div class="home-or-services-img">
                                             <img src="images/vehicle-shifting.png?version=0.0.2" alt="vehicle shifting" loading="lazy" />
                                         </div>
@@ -320,7 +320,7 @@
                                         </div>
                                     </div>
                     
-                                    <div class="home-services-item">
+                                    <div class="home-services-item" onclick="myFunction()">
                                         <div class="home-or-services-img">
                                             <img src="images/pet-shifting.png?version=0.0.2" alt="home shifting" loading="lazy" />
                                         </div>
@@ -333,7 +333,7 @@
                                         </div>
                                     </div>
                     
-                                    <div class="home-services-item">
+                                    <div class="home-services-item" onclick="myFunction()">
                                         <div class="home-or-services-img">
                                         <img src="images/warehouse-strorage.png?version=0.0.2" alt="warehouse strorage" loading="lazy" />
                                         </div>
@@ -347,7 +347,7 @@
                                         </div>
                                     </div>
                     
-                                    <div class="home-services-item">
+                                    <div class="home-services-item" onclick="myFunction()">
                                         <div class="home-or-services-img">
                                             <img src="images/internation-moving.png?version=0.0.2" alt="internation moving" loading="lazy" />
                                         </div>
