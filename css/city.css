@@ -106,6 +106,7 @@
 }
 .city-item-icon span i {
     font-size: 14px;
+    font-style: normal;
 }
 .form-items .city-item-icon svg rect,
 .form-items .city-item-icon svg path{
@@ -322,7 +323,7 @@ input:hover + .form-items .city-item-icon svg path {
     }
     .city-item-icon span {
         font-size: 14px;
-        line-height: 15.5px;
+        line-height: 14.5px;
     }
     .city-item-icon span i {
         font-size: 12px;
@@ -365,7 +366,7 @@ input:hover + .form-items .city-item-icon svg path {
     }
     .form-items{
         font-size: 16px;
-        padding: 10px 30px;
+        padding: 10px 18px;
     }
     .city-hero-form-btn{
         margin-top: 13px;
