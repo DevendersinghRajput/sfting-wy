@@ -107,6 +107,8 @@
 .city-item-icon span i {
     font-size: 14px;
     font-style: normal;
+    font-weight: 400;
+    color: #777777;
 }
 .form-items .city-item-icon svg rect,
 .form-items .city-item-icon svg path{
@@ -327,8 +329,6 @@ input:hover + .form-items .city-item-icon svg path {
     }
     .city-item-icon span i {
         font-size: 12px;
-        font-weight: 400;
-        color: #777777;
     }
 }
 @media (max-width: 610px){

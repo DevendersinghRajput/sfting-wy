@@ -57,8 +57,8 @@
     <?php include'include/stactic-meta.php'; ?>
     
     <!-- ====== css link ======= -->
-    <link rel="stylesheet" href="css/city.css?version=0.2.9">
-    <link rel="preload" href="css/city.css?version=0.2.9" as="style"> 
+    <link rel="stylesheet" href="css/city.css?version=0.3.0">
+    <link rel="preload" href="css/city.css?version=0.3.0" as="style"> 
     <!-- =========== change meta tages ======== -->
     <title>Best Packers and movers in Hisar - ShiftingWay Packers</title>
     <meta name="description" content="Whether moving locally or long-distance in Hisar, Shiftingway provides customized solutions. Contact us today for a seamless and hassle-free home shifting." />
