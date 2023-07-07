@@ -100,6 +100,13 @@
 .hide-hero-items-redio{
     display: none;
 }
+.city-item-icon span {
+    font-size: 16px;
+    line-height: 15.5px;
+}
+.city-item-icon span i {
+    font-size: 14px;
+}
 .form-items .city-item-icon svg rect,
 .form-items .city-item-icon svg path{
     transition: all 0.2s ease-in-out;
@@ -312,6 +319,13 @@ input:hover + .form-items .city-item-icon svg path {
     .form-items{
         max-width: 235px;
         min-width: 235px;
+    }
+    .city-item-icon span {
+        font-size: 14px;
+        line-height: 15.5px;
+    }
+    .city-item-icon span i {
+        font-size: 12px;
     }
 }
 @media (max-width: 610px){
