@@ -77,6 +77,26 @@
     <link rel="preload" as="image" href="images/kochi.png">
     <link rel="preload" as="image" href="images/dehradun.webp">
 
-    <style>
-        
-    </style>
+    <script>
+        // ====== hamberger click show ========= //
+        const navBar = document.querySelector("nav"),
+            menuBtns = document.querySelectorAll(".menu-icon"),
+            overlay = document.querySelector(".overlay");
+            menuBtns.forEach((menuBtn) => {
+            menuBtn.addEventListener("click", () => {
+            document.body.classList.toggle("noscroll"); 
+            navBar.classList.toggle("open");
+                });
+            });
+            overlay.addEventListener("click", () => {
+            navBar.classList.remove("open");
+        });
+
+
+        // ==== toggle city slect btn ==== 
+        function cityFunction() {
+            var element = document.getElementById("myDIV");
+            element.classList.toggle("mystyle");
+            document.body.classList.toggle("noscroll"); 
+        }
+    </script>
