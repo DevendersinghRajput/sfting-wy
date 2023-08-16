@@ -327,9 +327,9 @@ input:hover + .form-items .city-item-icon svg path {
         font-size: 14px;
         line-height: 14.5px;
     }
-    .city-item-icon span i {
-        font-size: 12px;
-    }
+    /* .city-item-icon span i {
+        font-size: 14px;
+    } */
 }
 @media (max-width: 610px){
     .breadcrumbs > a{
