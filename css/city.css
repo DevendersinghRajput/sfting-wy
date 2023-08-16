@@ -324,8 +324,8 @@ input:hover + .form-items .city-item-icon svg path {
         min-width: 235px;
     }
     .city-item-icon span {
-        font-size: 14px;
-        line-height: 14.5px;
+        font-size: 15px;
+        line-height: 16.5px;
     }
     /* .city-item-icon span i {
         font-size: 14px;
