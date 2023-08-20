@@ -1226,7 +1226,7 @@ form:invalid button {
     z-index: 99;
     margin-top: 2px;
     border-radius: 7px;
-    border: 1px solid var(--lite-gry);
+    border: 1px solid #ff6600;
     background-color: var(--white);
 }
 .select-hide {
