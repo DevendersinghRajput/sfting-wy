@@ -1165,7 +1165,7 @@ form:invalid button {
 .home-form form input{
     width: 100%;
     padding: 12px;
-    border: 1px solid #131313;
+    border: 1px solid #f37622;
     margin-top: 15px;
     border-radius: 7px;
     font-size: 16px;
@@ -1173,11 +1173,9 @@ form:invalid button {
 }
 .home-form form input:focus,
 .select-selected:focus{
-    border: 1px solid #ffd67e;
-}
-.home-form form input:valid{
     border: 1px solid #ff6600;
 }
+
 .home-form form button{
     padding: 12px 0px;
     border: none;
