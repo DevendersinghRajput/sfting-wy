@@ -25,7 +25,7 @@
 
     <!-- =========== statice link =========== -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Days+One&family=Karla:wght@400;500;600&display=swap">
-    <link rel="stylesheet" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d871.4310958956529!2d75.81657892923556!3d29.113817270552207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391236ae389911a9%3A0x3f02e948e10f7aeb!2sDevilal%20Colony%2C%20Satrod%20Kalan%2C%20Hisar%2C%20Haryana%20125044!5e0!3m2!1sen!2sin!4v1676303820282!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+    <!-- <link rel="stylesheet" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d871.4310958956529!2d75.81657892923556!3d29.113817270552207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391236ae389911a9%3A0x3f02e948e10f7aeb!2sDevilal%20Colony%2C%20Satrod%20Kalan%2C%20Hisar%2C%20Haryana%20125044!5e0!3m2!1sen!2sin!4v1676303820282!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> -->
     <link rel="stylesheet" href="css/base.css?version=0.1.1">
     <link rel="stylesheet" href="css/header.css?version=0.1.1">
     <link rel="stylesheet" href="css/footer.css?version=0.1.4">
@@ -41,7 +41,7 @@
     <link rel="preload" href="css/footer.css?version=0.1.4" as="style">
 
     <!-- ======== google tage prelode ======== -->
-    <link rel="preload" href="https://www.googletagmanager.com/ns.html?id=GTM-5XLWN7D">
+    <!-- <link rel="preload" href="https://www.googletagmanager.com/ns.html?id=GTM-5XLWN7D"> -->
 
     <!-- ======== preloder fonts ======== -->
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Days+One&family=Karla:wght@400;500;600&display=swap" as="font" type="font/otf" crossorigin>
@@ -50,7 +50,7 @@
     <meta name="p:domain_verify" content="f7406ec9f9274d90007b7caf9bff191e"/>
 
     <!-- ====== images preloding ======= -->
-    <link rel="preload" as="image" href="images/hisar.png">
+    <!-- <link rel="preload" as="image" href="images/hisar.png">
     <link rel="preload" as="image" href="images/bengaluru.webp">
     <link rel="preload" as="image" href="images/delhi.webp">
     <link rel="preload" as="image" href="images/Mumbai.webp">
@@ -75,6 +75,6 @@
     <link rel="preload" as="image" href="images/vadodara.webp">
     <link rel="preload" as="image" href="images/surat.png">
     <link rel="preload" as="image" href="images/kochi.png">
-    <link rel="preload" as="image" href="images/dehradun.webp">
+    <link rel="preload" as="image" href="images/dehradun.webp"> -->
 
     
