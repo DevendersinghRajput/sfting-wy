@@ -108,7 +108,7 @@
     font-size: 14px;
     font-style: normal;
     font-weight: 500;
-    color: #777777;
+    color: #2e2e2e;
 }
 .form-items .city-item-icon svg rect,
 .form-items .city-item-icon svg path{
@@ -1165,7 +1165,7 @@ form:invalid button {
 .home-form form input{
     width: 100%;
     padding: 12px;
-    border: 1px solid var(--border-color);
+    border: 1px solid #131313;
     margin-top: 15px;
     border-radius: 7px;
     font-size: 16px;
@@ -1174,6 +1174,9 @@ form:invalid button {
 .home-form form input:focus,
 .select-selected:focus{
     border: 1px solid #ffd67e;
+}
+.home-form form input:valid{
+    border: 1px solid #ff6600;
 }
 .home-form form button{
     padding: 12px 0px;
@@ -1516,7 +1519,7 @@ form:invalid button {
     margin: 16px 0px;
 }
 .main-color-heading{
-    color: #d88200 !important;
+    color: #f87800 !important;
 }
 .main-cont-grop{
     padding-bottom: 30px;
