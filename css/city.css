@@ -1214,7 +1214,7 @@ form:invalid button {
     border-radius: 7px 7px 0px 0px;
 }
 .select-selected {
-    border: 1px solid var(--lite-gry);
+    border: 1px solid #ff6600;
     border-radius: 7px;
     margin-top: 15px;
 }
