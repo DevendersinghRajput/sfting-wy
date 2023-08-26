@@ -66,7 +66,7 @@
                                 <span class="link">Cities</span>
                             </a>
                         </li>
-                        <li class="list">
+                        <!-- <li class="list">
                             <a href="javascript:void(0)" class="nav-link">
                                 <i class="bx bx-message-rounded icon">
                                     <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -78,8 +78,8 @@
                                 </i>
                                 <span class="link">Services</span>
                             </a>
-                        </li>
-                        <li class="list">
+                        </li> -->
+                        <!-- <li class="list">
                             <a href="javascript:void(0)" class="nav-link">
                                 <i class="bx bx-pie-chart-alt-2 icon">
                                     <svg width="15" height="17" viewBox="0 0 15 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -89,7 +89,7 @@
                                 </i>
                                 <span class="link">Blogs</span>
                             </a>
-                        </li>
+                        </li> -->
                         <li class="list">
                             <a href="contact" class="nav-link">
                                 <i class="bx bx-heart icon">
@@ -235,7 +235,8 @@
                                           <span>Hisar</span>
                                       </a>
                                   </li>
-                                  <li class="tab">
+
+                                  <!-- <li class="tab">
                                       <a href="javascript:void(0)" class="c-flex ali-c">
                                           <div class="header-city-img">
                                               <img src="images/bengaluru.webp?version=0.0.2" alt="bangalore" title="bangalore"/>
@@ -483,7 +484,9 @@
 
                                           <span>Dehradun</span>
                                       </a>
-                                  </li>
+                                  </li> -->
+
+
                               </ul>
                               <div class="icon">
                                   <i id="right" class="fa-solid fa-angle-right r-flex ali-c jut-c">
