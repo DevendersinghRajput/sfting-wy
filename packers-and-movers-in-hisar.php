@@ -156,13 +156,13 @@
                                     <div class="table-head">
                                         <div class="thead-table-row r-flex ali-c jut-sb">
                                             <div class="table-menu">Shifting Items</div>
-                                            <div class="table-menu">1 KMs - 50Kms</div>
-                                            <div class="table-menu">50 KMs - 99Kms</div>
+                                            <div class="table-menu">1 KM - 50Km</div>
+                                            <div class="table-menu">50 KM - 99Km</div>
                                         </div>
                                     </div>
                                     <div class="table-body c-flex">
                                         <div class="tbody-row r-flex ali-c jut-sb">
-                                            <div class="table-menu">Full Household Items</div>
+                                            <div class="table-menu">Full Household</div>
                                             <div class="table-menu">Rs. 2,500 - 4,000</div>
                                             <div class="table-menu">Rs. 3,500 - 7,000</div>
                                         </div>
