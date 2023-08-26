@@ -1081,11 +1081,11 @@ input:hover + .form-items .city-item-icon svg path {
         font-size: 14px;
     }
     .home-over-services-cont > span{
-        font-size: 13px;
+        font-size: 14px;
     }
     .home-over-services-cont > div{
-        font-size: 12px;
-        margin-top: 2px;
+        font-size: 14px;
+        margin-top: 14px;
     }
     
 }
@@ -1466,7 +1466,7 @@ form:invalid button {
     }
     .table-head .thead-table-row{
         padding: 10px 5px;
-        font-size: 13px;
+        font-size: 15px;
         border-radius: 3px;
     }
     .table-body .tbody-row{
@@ -1477,7 +1477,7 @@ form:invalid button {
         max-width: 111px;
     }
     .table-body .tbody-row .table-menu{
-        font-size: 12px;
+        font-size: 14px;
     }
 }
 /* ================ charges section close =========== */
@@ -1812,7 +1812,7 @@ form:invalid button {
         padding: 80px 0px;
     }
     .review-main-heading{
-        font-size: 15ppx;
+        font-size: 15px;
     }
     .review-sub-heading{
         font-size: 24px;
@@ -1841,7 +1841,7 @@ form:invalid button {
         font-size: 15px;
     }
     .reviewer-user-name > span{
-        font-size: 12px;
+        font-size: 14px;
     }
     .reviewer-user-name > svg{
         width: 50px;
