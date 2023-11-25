@@ -403,7 +403,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "telephone": "9817326797",
+            "telephone": "8684809875",
             "url": "https://www.shiftingway.com/<?php echo $last_dom; ?><?php echo $smal_city; ?>",
             
             "image": "https://www.shiftingway.com/images/city-barner.png",
