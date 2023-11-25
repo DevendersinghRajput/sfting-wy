@@ -38,7 +38,7 @@
     <!-- ============css priloder============= -->
     <link rel="preload" href="css/base.css?version=0.1.1" as="style">
     <link rel="preload" href="css/header.css?version=0.1.1" as="style">
-    <link rel="preload" href="css/footer.css?version=0.1.4" as="style">
+    <link rel="preload" href="css/footer.css?version=0.1.6" as="style">
 
     <!-- ======== google tage prelode ======== -->
     <!-- <link rel="preload" href="https://www.googletagmanager.com/ns.html?id=GTM-5XLWN7D"> -->
