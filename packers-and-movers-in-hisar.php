@@ -170,10 +170,7 @@
             right: 0px;
             bottom: 0px;
         }
-        .phone_no_send_popup{
-            justify-content: end;
-            align-items: end;
-        }
+        
     }
 </style>
 </head>
