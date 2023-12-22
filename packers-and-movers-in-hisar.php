@@ -99,6 +99,83 @@
           }
         }
     </style>
+    <style>
+    .phone_no_send_popup {
+        position: fixed;
+        top: 0%;
+        width: 100vw;
+        height: 100vh;
+        z-index: 12;
+        background-color: #00000091;
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .phone_no_pop_form {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: fit-content;
+        max-width: 400px;
+        max-height: fit-content;
+        padding: 40px 20px 20px 20px;
+        gap: 20px;
+        border-radius: 10px;
+        background-color: #ffffff;
+        position: relative;
+    }
+
+    .phone_no_pop_form input {
+        width: 100%;
+        padding: 12px;
+        border-radius: 5px;
+        border: 1px solid #303030;
+        outline: none;
+    }
+
+    .close_form_btn {
+        width: 15px;
+        height: 15px;
+        display: flex;
+        transform: rotate(45deg);
+        /* background-color: #696969; */
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        /* border-radius: 5px; */
+        cursor: pointer;
+        border-top: 2px solid #d1d1d1;
+    }
+
+    .close_form_btn::after {
+        content: '';
+        width: 15px;
+        height: 20px;
+        display: flex;
+        transform: rotate(-90deg);
+        /* background-color: #696969; */
+        position: absolute;
+        border-top: 2px solid #d1d1d1;
+        /* border-radius: 5px; */
+        top: -12px;
+        right: -10px;
+    }
+    @media (max-width: 600px){
+        .phone_no_pop_form{
+            border-radius: 10px 10px 0px 0px;
+            right: 0px;
+            bottom: 0px;
+        }
+        .phone_no_send_popup{
+            justify-content: end;
+            align-items: end;
+        }
+    }
+</style>
 </head>
 <body>
     

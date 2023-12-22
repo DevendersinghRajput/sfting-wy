@@ -21,3 +21,27 @@
         </form>
 </div>
 <!-- ========= form pop - up clsoe ============ -->
+
+
+
+<div class="phone_no_send_popup" id="main_form_popup" style="display: none;">
+    <form class="phone_no_pop_form" action="include/mail">
+        <input type="text" id="name" name="name" placeholder="Enter your name..." autocomplete="off">
+        <input required="required" type="number" id="PhoneNumber" name="PhoneNumber" placeholder="Enter mobile no..." pattern="^[6789]\d{9}$" autocomplete="off">
+        <button type="submit" class="form-triged-pop-btn">Submit</button>
+        <div class="close_form_btn" id="close_pop_up"></div>
+    </form>
+</div>
+<!-- ========= form pop - up clsoe ============ -->
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        setTimeout(function () {
+            document.getElementById('main_form_popup').style.display = 'flex';
+        }, 4000);
+    });
+
+    document.getElementById('close_pop_up').addEventListener('click', function () {
+        document.getElementById('main_form_popup').style.display = 'none';
+    });
+</script>
