@@ -166,7 +166,7 @@
     }
     @media (max-width: 600px){
         .phone_no_pop_form{
-            border-radius: 10px 10px 0px 0px;
+            border-radius: 10px;
             right: 0px;
             bottom: 0px;
         }
