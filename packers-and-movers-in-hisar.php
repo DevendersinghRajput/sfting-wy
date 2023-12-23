@@ -163,6 +163,14 @@
         top: -12px;
         right: -10px;
     }
+    .pop_no_heading{
+        font-size: 18px;
+        color: #323232;
+        font-weight: 700;
+        line-height: 22px;
+        margin-top: -28px;
+        text-align: center;
+    }
     @media (max-width: 600px){
         .phone_no_pop_form{
             border-radius: 10px;
