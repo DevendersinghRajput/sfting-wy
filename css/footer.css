@@ -291,24 +291,7 @@
     48%{
         transform: rotate(0deg);
     }
-    52%{
-        transform: rotate(-25deg);
-    }
-    58%{
-        transform: rotate(-9deg);
-    }
-    63%{
-        transform: rotate(-0deg);
-    }
-    68%{
-        transform: rotate(10deg);
-    }
-    71%{
-        transform: rotate(0deg);
-    }
-    75%{
-        transform: rotate(-30deg)
-    }
+    
     100% {
         transform: rotate(0deg);
     }
