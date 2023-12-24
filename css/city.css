@@ -681,7 +681,7 @@ input:hover + .form-items .city-item-icon svg path {
         top: 0;
         left: 0;
         opacity: .5;
-        filter: blur(9px);
+        /* filter: blur(9px); */
         animation-delay: 5s;
         animation-timing-function: cubic-bezier(.47,0,.75,.72);
         animation-duration: 4s;
