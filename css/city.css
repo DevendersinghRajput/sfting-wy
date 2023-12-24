@@ -673,7 +673,7 @@ input:hover + .form-items .city-item-icon svg path {
         background: linear-gradient(to left,transparent 0%,#fff 40%,#fff 50%,#fff 60%,transparent 100%);
         height: fit-content;
         position: absolute;
-        width: 5%;
+        width: 10%;
         height: 100%;
         display: flex;
         animation: call_atract 2s infinite 0.3s;
@@ -681,7 +681,7 @@ input:hover + .form-items .city-item-icon svg path {
         top: 0;
         left: 0;
         opacity: .5;
-        /* filter: blur(9px); */
+        filter: blur(9px);
         animation-delay: 5s;
         animation-timing-function: cubic-bezier(.47,0,.75,.72);
         animation-duration: 4s;
