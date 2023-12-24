@@ -667,13 +667,13 @@ input:hover + .form-items .city-item-icon svg path {
         padding: 12px 45px 5px 45px;
         border-radius: 7px;
     }
-    .stikiy-btn-on-scroll > a::after{
+    .stikiy-btn-on-lower_call_btn::after{
         content: "";
         width: 100%;  
         background: linear-gradient(to left,transparent 0%,#fff 40%,#fff 50%,#fff 60%,transparent 100%);
         height: fit-content;
         position: absolute;
-        width: 10%;
+        width: 5%;
         height: 100%;
         display: flex;
         animation: call_atract 2s infinite 0.3s;
