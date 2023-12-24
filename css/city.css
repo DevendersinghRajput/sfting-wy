@@ -667,7 +667,7 @@ input:hover + .form-items .city-item-icon svg path {
         padding: 12px 45px 5px 45px;
         border-radius: 7px;
     }
-    .stikiy-btn-on-lower_call_btn::after{
+    .lower_call_btn::after{
         content: "";
         width: 100%;  
         background: linear-gradient(to left,transparent 0%,#fff 40%,#fff 50%,#fff 60%,transparent 100%);
