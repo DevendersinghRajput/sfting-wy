@@ -111,6 +111,7 @@
         margin: auto;
         justify-content: center;
         align-items: center;
+        padding:0px 12px
     }
 
     .phone_no_pop_form {
@@ -127,7 +128,6 @@
         border-radius: 10px;
         background-color: #ffffff;
         position: relative;
-        padding:0px 12px;
     }
 
     .phone_no_pop_form input {
