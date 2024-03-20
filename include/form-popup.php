@@ -39,7 +39,7 @@
     document.addEventListener("DOMContentLoaded", function () {
         setTimeout(function () {
             document.getElementById('main_form_popup').style.display = 'flex';
-        }, 4000);
+        }, 9000);
     });
 
     document.getElementById('close_pop_up').addEventListener('click', function () {
