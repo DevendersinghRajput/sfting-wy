@@ -144,8 +144,8 @@
         transform: rotate(45deg);
         /* background-color: #696969; */
         position: absolute;
-        top: 10px;
-        right: 10px;
+        top: 15px;
+        right: 15px;
         /* border-radius: 5px; */
         cursor: pointer;
         border-top: 2px solid #d1d1d1;
