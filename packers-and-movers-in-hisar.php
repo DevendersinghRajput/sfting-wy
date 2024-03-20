@@ -126,6 +126,7 @@
         gap: 20px;
         border-radius: 10px;
         background-color: #ffffff;
+        position: relative;
     }
 
     .phone_no_pop_form input {
